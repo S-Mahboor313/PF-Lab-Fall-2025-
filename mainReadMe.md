@@ -5,9 +5,9 @@
 ##### Heading 5 (Five Hashtags at start)
 ###### Heading 6 (Six Hashtags at start)
 
-*Writing in between Single starics result in Italic Format*\
-**Writing in between Double starics result in Bold Format**\
-***Writing in between Triple starics result in bot Italic & Bold Format***
+*Writing in between single starics result in Italic Format*\
+**Writing in between double starics result in Bold Format**\
+***Writing in between triple starics result in bot Italic & Bold Format***
 
 * Using
 * One
@@ -26,3 +26,5 @@
 6. Makes
 7. Ordered
 8. List
+
+~~Writing in between double tildes result in strikethrough~~ 
