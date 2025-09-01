@@ -1,13 +1,13 @@
-# Heading 1 (One Hashtag)
-## Heading 2 (Two Hashtags)
-### Heading 3 (Three Hashtags)
-#### Heading 4 (Four Hashtags)
-##### Heading 5 (Five Hashtags)
-###### Heading 6 (Six Hashtags)
+# Heading 1 (One Hashtag at start)
+## Heading 2 (Two Hashtags at start)
+### Heading 3 (Three Hashtags at start)
+#### Heading 4 (Four Hashtags at start)
+##### Heading 5 (Five Hashtags at start)
+###### Heading 6 (Six Hashtags at start)
 
-*Single starics result in Italic Format*\
-**Double starics result in Bold Format**\
-***Triple starics result in bot Italic & Bold Format***
+*Writing in between Single starics result in Italic Format*\
+**Writing in between Double starics result in Bold Format**\
+***Writing in between Triple starics result in bot Italic & Bold Format***
 
 * Using
 * One
