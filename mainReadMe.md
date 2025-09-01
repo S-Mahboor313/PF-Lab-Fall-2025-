@@ -17,3 +17,12 @@
 * Makes
 * Unordered
 * List
+
+1. Using
+2. A Diit
+3. With
+4. a Period
+5. Symbol
+6. Makes
+7. Ordered
+8. List
