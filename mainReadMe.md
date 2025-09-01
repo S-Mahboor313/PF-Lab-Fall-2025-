@@ -7,7 +7,7 @@
 
 *Writing in between single starics result in Italic Format*\
 **Writing in between double starics result in Bold Format**\
-***Writing in between triple starics result in bot Italic & Bold Format***
+***Writing in between triple starics result in both Italic & Bold Formats***
 
 * Using
 * One
