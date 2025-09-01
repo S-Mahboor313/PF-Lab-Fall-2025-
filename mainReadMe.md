@@ -19,9 +19,9 @@
 * List
 
 1. Using
-2. A Diit
+2. A Digit
 3. With
-4. a Period
+4. A Period
 5. Symbol
 6. Makes
 7. Ordered
