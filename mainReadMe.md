@@ -27,4 +27,9 @@
 7. Ordered
 8. List
 
-~~Writing in between double tildes result in strikethrough~~ 
+~~Writing in between double tildes result in strikethrough~~
+
+- [x] Filled Checkbox
+- [ ] Unfilled Checkbox
+
+![Computer Image](https://assets.puzzlefactory.com/puzzle/220/715/original.jpg)
